@@ -23,7 +23,8 @@ digital-clock/
   <img src="https://img.shields.io/badge/View%20Site-4A4A4A?style=for-the-badge" />
 </a>
 
-<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/4c47f4a4-add1-4fcf-8c9c-f47a63585053" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/c75d60bb-fc12-48f1-8883-fbd1032f3c91" />
+
 
 ## 🔮 Future Improvements
 - Multiple time zones
