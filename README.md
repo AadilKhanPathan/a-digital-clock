@@ -9,13 +9,15 @@ A modern and responsive digital clock built using HTML, CSS, and JavaScript. The
 - Modern geometric background
 
 ## 📁 Project Structure
+
+```text
 digital-clock/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── images/
 └── README.md
-
+```
 
 <h2>Demo</h2>
 
